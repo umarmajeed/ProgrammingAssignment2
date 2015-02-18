@@ -8,7 +8,6 @@
 #get the value of the Matrix
 #set the value of the Inverse of Matrix
 #get the value of the Inverse of Matrix
-
 # assume that the matrix supplied is always invertible.
 
 makeCacheMatrix <- function(x = matrix()) {
