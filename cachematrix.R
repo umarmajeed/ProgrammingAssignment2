@@ -11,7 +11,7 @@
 # assume that the matrix supplied is always invertible.
 
 makeCacheMatrix <- function(x = matrix()) {
-  
+   
   ## initially setting inverseMAtrix to NULL
   ## <<- operator is used to assign a value to an object in an environment that is different from the current environment
   
